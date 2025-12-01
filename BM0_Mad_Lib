@@ -1,3 +1,20 @@
-print('Hello World')
-for i in range(100):
-	print('What')
+print("Initiating Story #1")
+word1 = (input("Enter Name: "))
+word2 = (input("Enter Adjective: "))
+word3 = (input("Enter Number: "))
+word4 = (input("Enter 6-7: "))
+
+print("I just beat " + word1 + " up. They then reported me to the police.")
+print("I felt " + word2 + ". They showed up at my door and arrested me.")
+print("I got out on bail. I only ended up spending " + word3 + " hours in jail.")
+print("I went home and was greeted by the " + word4 + " kid.")
+
+print('Initiating Story #2')
+word1 = (input("Enter Place: "))
+word2 = (input("Enter Name: "))
+word3 = (input("Enter Verb: "))
+
+print("They were at " + word1 + " hoping for a chance to strike big, when " + word2 + " showed up.")
+print("They felt so annoying, seeing their face. They " + word3 + " and never stopped.")
+
+
