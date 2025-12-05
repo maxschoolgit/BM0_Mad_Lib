@@ -12,7 +12,7 @@ print("I went home and was greeted by the " + word4 + " kid.")
 print('Initiating Story #2')
 word1 = (input("Enter Place: "))
 word2 = (input("Enter Name: "))
-word3 = (input("Enter Verb: "))
+word3 = (input("Enter Verb (Past-Tense): "))
 
 print("They were at " + word1 + " hoping for a chance to strike big, when " + word2 + " showed up.")
 print("They felt so annoying, seeing their face. They " + word3 + " and never stopped.")
